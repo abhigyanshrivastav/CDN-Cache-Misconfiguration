@@ -53,7 +53,7 @@ The report further noted potential misuse of exposed examination information, in
 
 The complete technical investigation, reproduction steps, screenshots, and evidence are available in the accompanying security report:
 
-**[CDN Cache Misconfiguration — Security Report](./CDM_CM.pdf)**
+**[CDN Cache Misconfiguration — Security Report]([https://abhigyanshrivastav.github.io/CDN-Cache-Misconfiguration/CDM_CM.pdf])**
 
 > **Note:** The report documents the behavior observed during the original investigation. It does not provide a confirmed permanent remediation; the original report explicitly stated that a permanent solution had not yet been established.
 
